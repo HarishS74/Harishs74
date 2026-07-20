@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Harish%20S&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Harish%20S&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20CSE%20Undergrad%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=14" width="100%"/>
 
 </div>
 
@@ -11,8 +11,8 @@ const harish = {
     name: "Harish S",
     role: "CSE Undergrad @ CIT",
     based_in: "Chennai, India",
-     "300+ problems solved 🚀"
-    motto:() => "Learn. Build. Solve. Repeat."
+    funFact: "300+ problems solved 🚀",
+    motto: () => "Learn. Build. Solve. Repeat."
 };
 ```
 
@@ -30,15 +30,13 @@ const harish = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-
-
-
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 
-
-
+### 🏆 Achievements
 
 - Solved 300+ problems on LeetCode, CodeChef, Codeforces & SkillRack
 - Participated in multiple hackathons
