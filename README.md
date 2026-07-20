@@ -11,14 +11,16 @@ const harish = {
     name: "Harish S",
     role: "CSE Undergrad @ CIT",
     based_in: "Chennai, India",
-    funFact: "300+ problems solved 🚀",
     motto: () => "Learn. Build. Solve. Repeat."
 };
+
+
+ "300+ problems solved 🚀"
 ```
 
 <br clear="right"/>
 
-### 🛠️ Tech Stack
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -30,13 +32,19 @@ const harish = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 
-### 🏆 Achievements
+
+
+
+
+
+
+
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+
+
+
 
 - Solved 300+ problems on LeetCode, CodeChef, Codeforces & SkillRack
 - Participated in multiple hackathons
